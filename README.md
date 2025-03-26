@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Usman Chand Khan
+# 👋 Hi, I’m Muhammad Usman
 ### 🚀 Flutter Developer  
 
 - 👀 I’m interested in **Flutter app development.**
